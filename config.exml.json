@@ -1,0 +1,98 @@
+{
+    "telegram_bot_token": "telegram_bot_token",
+    "telegram_admin_id": 5256506676,
+    "default_delay_minutes": 124,
+    "delay_variation_percent": 10,
+    "accounts": [
+        {
+            "name": "Mixue",
+            "token": "",
+            "proxy": null,
+            "channels": [
+                {
+                    "id": "733049257648586792",
+                    "name": "surgs ihemo",
+                    "message": "",
+                    "delay": 127
+                },
+                {
+                    "id": "806494474200547338",
+                    "name": "Lock E i hemo",
+                    "message": "{{\n\nSell all this at Go AWMKU\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nSafe Vault 7\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \n\nGo AWMKU|Sell all this at Go AWMKU\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nChi Harmonizer 11\nSafe Vault 7\n\n\nGo AWMKU|Sell all this at Go AWMKU\n\nGuild Chest  2 \nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nChi Harmonizer 11\nSafe Vault 7\nLock Mover 21 \n\nGo AWMKU|Sell all this at Go AWMKU\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16  \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nSafe Vault 7 \n\nGo AWMKU|Sell all this at Go AWMKU\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nSafe Vault 7\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \n\nGo AWMKU|Sell all this at Go MYZEE\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nSafe Vault 7\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \n\nGo MYZEE|Sell all this at Go MYZEE\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nChi Harmonizer 11\nSafe Vault 7\n\n\nGo MYZEE|Sell all this at Go MYZEE\n\nGuild Chest  2 \nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nChi Harmonizer 11\nSafe Vault 7\nLock Mover 21 \n\nGo MYZEE|Sell all this at Go MYZEE\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16  \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nSafe Vault 7 \n\nGo MYZEE|Sell all this at Go MYZEE\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nSafe Vault 7\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \n\nGo MYZEE\n\n}}",
+                    "delay": 129
+                },
+                {
+                    "id": "733052554820452423",
+                    "name": "startopia",
+                    "message": "{\nCheap Tools At MYZEE\n\nSell Cyborg Diplomat 🤵‍♂️\nSell Galacticbolt ⚡️ \nSell Gigablaster 🔫\nSell Growton Torpedo 💣 \nSell HyperShields 🛡 \nSell Quadriscanner 🔎\nSell Space Meds 💊\nSell Star Supplies 📦\nSell Stellar Documents 📝\nSell Tactical Drone 🛸 \nSell Teleporter Charge 🪄 \nStar Fuel ⛽️ \n\nCheap Tools At MYZEE|\nCheap Tools At AWMKU\n\nSell Cyborg Diplomat 🤵‍♂️\nSell Galacticbolt ⚡️ \nSell Gigablaster 🔫\nSell Growton Torpedo 💣 \nSell HyperShields 🛡 \nSell Quadriscanner 🔎\nSell Space Meds 💊\nSell Star Supplies 📦\nSell Stellar Documents 📝\nSell Tactical Drone 🛸 \nSell Teleporter Charge 🪄 \nStar Fuel ⛽️ \n\nCheap Tools At AWMKU|\nCheap Tools At MYZEE\n\nStar Fuel ⛽️ \nSell Cyborg Diplomat 🤵‍♂️\nSell Galacticbolt ⚡️ \nSell Gigablaster 🔫\nSell Growton Torpedo 💣 \nSell HyperShields 🛡 \nSell Quadriscanner 🔎\nSell Space Meds 💊\nSell Star Supplies 📦\nSell Stellar Documents 📝\nSell Tactical Drone 🛸 \nSell Teleporter Charge 🪄 \n\nCheap Tools At MYZEE|\nCheap Tools At AWMKU\n\nStar Fuel ⛽️\nSell Cyborg Diplomat 🤵‍♂️\nSell Galacticbolt ⚡️ \nSell Gigablaster 🔫\nSell Growton Torpedo 💣 \nSell HyperShields 🛡 \nSell Quadriscanner 🔎\nSell Space Meds 💊\nSell Star Supplies 📦\nSell Stellar Documents 📝\nSell Tactical Drone 🛸 \nSell Teleporter Charge 🪄 \n\nCheap Tools At AWMKU|\nCheap Tools At MYZEE\n\nSell Teleporter Charge 🪄 \nSell Cyborg Diplomat 🤵‍♂️\nSell Galacticbolt ⚡️ \nSell Gigablaster 🔫\nSell Growton Torpedo 💣 \nSell HyperShields 🛡 \nSell Quadriscanner 🔎\nSell Space Meds 💊\nSell Star Supplies 📦\nSell Stellar Documents 📝\nSell Tactical Drone 🛸 \nStar Fuel ⛽️ \n\nCheap Tools At MYZEE|\nCheap Tools At AWMKU\n\nSell Teleporter Charge 🪄\nSell Cyborg Diplomat 🤵‍♂️\nSell Galacticbolt ⚡️ \nSell Gigablaster 🔫\nSell Growton Torpedo 💣 \nSell HyperShields 🛡 \nSell Quadriscanner 🔎\nSell Space Meds 💊\nSell Star Supplies 📦\nSell Stellar Documents 📝\nSell Tactical Drone 🛸 \nStar Fuel ⛽️ \n\nCheap Tools At AWMKU|\nCheap Tools At MYZEE\n\nStar Fuel ⛽️\nSell Teleporter Charge 🪄  \nSell Cyborg Diplomat 🤵‍♂️\nSell Galacticbolt ⚡️ \nSell Gigablaster 🔫\nSell Growton Torpedo 💣 \nSell HyperShields 🛡 \nSell Quadriscanner 🔎\nSell Space Meds 💊\nSell Star Supplies 📦\nSell Stellar Documents 📝\nSell Tactical Drone 🛸 \n\nCheap Tools At MYZEE|\nCheap Tools At AWMKU\n\nStar Fuel ⛽️\nSell Teleporter Charge 🪄 \nSell Cyborg Diplomat 🤵‍♂️\nSell Galacticbolt ⚡️ \nSell Gigablaster 🔫\nSell Growton Torpedo 💣 \nSell HyperShields 🛡 \nSell Quadriscanner 🔎\nSell Space Meds 💊\nSell Star Supplies 📦\nSell Stellar Documents 📝\nSell Tactical Drone 🛸 \n\n\nCheap Tools At AWMKU\n}",
+                    "delay": null
+                },
+                {
+                    "id": "806523338797219860",
+                    "name": "jammer ihemo",
+                    "message": "{Sell CHANGE OF ADDRESS 60\nat MYZEE|Sell CHANGE OF ADDRESS 60\nat AWMKU|Cheap CHANGE OF ADDRESS 60\nat MYZEE|Cheap CHANGE OF ADDRESS 60\nat AWMKU|Sell CHANGE OF ADDRESS 60\ngo MYZEE|Sell CHANGE OF ADDRESS 60\ngo AWMKU|Cheap CHANGE OF ADDRESS 60\ngo MYZEE|Cheap CHANGE OF ADDRESS 60\ngo AWMKU}",
+                    "delay": null
+                },
+                {
+                    "id": "742546954503848006",
+                    "name": "Crime ihemo",
+                    "message": "{{\nSELL AT  WUMUM\n\nCRIME WAVE\nHENCHMAN\n\n🔴 FLAME ON       🟡 OVERCHARGE\n🔴 HEAT VISION    🟡 RESUSCITATION\n🔴 INCINERATE    🟡 MEGAWATT PULSE\n🔴 LIQUIFY       🟡 THUNDERSTORM\n🔴 OVERHEAT      🟡 SHOCKING FIST\n\n🟢 SUPER STRENGTH  🔵 ICE SHARD\n🟢 CRUSH           🔵 FROZEN MIRROR\n🟢 ENRAGE          🔵 FROST BREATH\n🟢 REGENERATION    🔵 PUDDLE\n🟢 SUPER SPEED      🔵 ICE BARRIER|SELL AT  DEJOX\n\nCRIME WAVE\nHENCHMAN\n\n🔴 FLAME ON       🟡 OVERCHARGE\n🔴 HEAT VISION    🟡 RESUSCITATION\n🔴 INCINERATE    🟡 MEGAWATT PULSE\n🔴 LIQUIFY       🟡 THUNDERSTORM\n🔴 OVERHEAT      🟡 SHOCKING FIST\n\n🟢 SUPER STRENGTH  🔵 ICE SHARD\n🟢 CRUSH           🔵 FROZEN MIRROR\n🟢 ENRAGE          🔵 FROST BREATH\n🟢 REGENERATION    🔵 PUDDLE\n🟢 SUPER SPEED      🔵 ICE BARRIER|SELL AT  WUMUM\n\nHENCHMAN\nCRIME WAVE\n\n🔴 FLAME ON       🟡 OVERCHARGE\n🔴 HEAT VISION    🟡 RESUSCITATION\n🔴 INCINERATE    🟡 MEGAWATT PULSE\n🔴 LIQUIFY       🟡 THUNDERSTORM\n🔴 OVERHEAT      🟡 SHOCKING FIST\n\n🟢 SUPER STRENGTH  🔵 ICE SHARD\n🟢 CRUSH           🔵 FROZEN MIRROR\n🟢 ENRAGE          🔵 FROST BREATH\n🟢 REGENERATION    🔵 PUDDLE\n🟢 SUPER SPEED      🔵 ICE BARRIER|SELL AT  DEJOX\n\nHENCHMAN\nCRIME WAVE\n\n🔴 FLAME ON       🟡 OVERCHARGE\n🔴 HEAT VISION    🟡 RESUSCITATION\n🔴 INCINERATE    🟡 MEGAWATT PULSE\n🔴 LIQUIFY       🟡 THUNDERSTORM\n🔴 OVERHEAT      🟡 SHOCKING FIST\n\n🟢 SUPER STRENGTH  🔵 ICE SHARD\n🟢 CRUSH           🔵 FROZEN MIRROR\n🟢 ENRAGE          🔵 FROST BREATH\n🟢 REGENERATION    🔵 PUDDLE\n🟢 SUPER SPEED      🔵 ICE BARRIER|SELL AT  WUMUM\n\nCRIME WAVE\nHENCHMAN\n\n🟢 SUPER STRENGTH  🔵 ICE SHARD\n🟢 CRUSH           🔵 FROZEN MIRROR\n🟢 ENRAGE          🔵 FROST BREATH\n🟢 REGENERATION    🔵 PUDDLE\n🟢 SUPER SPEED      🔵 ICE BARRIER\n\n🔴 FLAME ON       🟡 OVERCHARGE\n🔴 HEAT VISION    🟡 RESUSCITATION\n🔴 INCINERATE    🟡 MEGAWATT PULSE\n🔴 LIQUIFY       🟡 THUNDERSTORM\n🔴 OVERHEAT      🟡 SHOCKING FIST|SELL AT  DEJOX\n\nCRIME WAVE\nHENCHMAN\n\n🟢 SUPER STRENGTH  🔵 ICE SHARD\n🟢 CRUSH           🔵 FROZEN MIRROR\n🟢 ENRAGE          🔵 FROST BREATH\n🟢 REGENERATION    🔵 PUDDLE\n🟢 SUPER SPEED      🔵 ICE BARRIER\n\n🔴 FLAME ON       🟡 OVERCHARGE\n🔴 HEAT VISION    🟡 RESUSCITATION\n🔴 INCINERATE    🟡 MEGAWATT PULSE\n🔴 LIQUIFY       🟡 THUNDERSTORM\n🔴 OVERHEAT      🟡 SHOCKING FIST|SELL AT  WUMUM\n\nHENCHMAN\nCRIME WAVE\n\n🟢 SUPER STRENGTH  🔵 ICE SHARD\n🟢 CRUSH           🔵 FROZEN MIRROR\n🟢 ENRAGE          🔵 FROST BREATH\n🟢 REGENERATION    🔵 PUDDLE\n🟢 SUPER SPEED      🔵 ICE BARRIER\n\n🔴 FLAME ON       🟡 OVERCHARGE\n🔴 HEAT VISION    🟡 RESUSCITATION\n🔴 INCINERATE    🟡 MEGAWATT PULSE\n🔴 LIQUIFY       🟡 THUNDERSTORM\n🔴 OVERHEAT      🟡 SHOCKING FIST|SELL AT  DEJOX\n\nHENCHMAN\nCRIME WAVE\n\n🟢 SUPER STRENGTH  🔵 ICE SHARD\n🟢 CRUSH           🔵 FROZEN MIRROR\n🟢 ENRAGE          🔵 FROST BREATH\n🟢 REGENERATION    🔵 PUDDLE\n🟢 SUPER SPEED      🔵 ICE BARRIER\n\n🔴 FLAME ON       🟡 OVERCHARGE\n🔴 HEAT VISION    🟡 RESUSCITATION\n🔴 INCINERATE    🟡 MEGAWATT PULSE\n🔴 LIQUIFY       🟡 THUNDERSTORM\n🔴 OVERHEAT      🟡 SHOCKING FIST\n}}",
+                    "delay": 122
+                }
+            ],
+            "message": "{{Sell All Surgical Tools At MYZEE\n\nSurgical Stitches \nSurgical Anesthetic \nSurgical Antibiotics \nSurgical Antiseptic \nSurgical Clamp \nSurgical Defibrillator \nSurgical Lab Kit \nSurgical Pins \nSurgical Scalpel \nSurgical Splint \nSurgical Sponge \nSurgical Transfusion \nSurgical Ultrasound \n\nCheap Tools At MYZEE|Sell All Surgical Tools At EYIP\nCheap Tools At EYIP\n\nSurgical Stitches \nSurgical Anesthetic \nSurgical Antibiotics \nSurgical Antiseptic \nSurgical Clamp \nSurgical Defibrillator \nSurgical Lab Kit \nSurgical Pins \nSurgical Scalpel \nSurgical Splint \nSurgical Sponge \nSurgical Transfusion \nSurgical Ultrasound|Sell Surgical Tools At MYZEE\n\nSurgical Stitches \nSurgical Anesthetic \nSurgical Antibiotics \nSurgical Antiseptic \nSurgical Clamp \nSurgical Defibrillator \nSurgical Lab Kit \nSurgical Pins \nSurgical Scalpel \nSurgical Splint \nSurgical Sponge \nSurgical Transfusion \nSurgical Ultrasound\n\nCheap Tools At MYZEE|Sell Surgical Tools At EYIP\nCheap Tools At EYIP\n\nSurgical Stitches \nSurgical Anesthetic \nSurgical Antibiotics \nSurgical Antiseptic \nSurgical Clamp \nSurgical Defibrillator \nSurgical Lab Kit \nSurgical Pins \nSurgical Scalpel \nSurgical Splint \nSurgical Sponge \nSurgical Transfusion \nSurgical Ultrasound|Sell Surgical Tools At MYZEE\n\nSurgical STITCHES \nSurgical ANESTHETIC \nSurgical ANTIBIOTICS \nSurgical ANTISEPTIC \nSurgical CLAMP \nSurgical DEFIBRILLATOR \nSurgical LAB KIT \nSurgical PINS \nSurgical SCALPEL \nSurgical SPLINT \nSurgical SPONGE \nSurgical TRANSFUSION \nSurgical ULTRASOUND \n\nCheap Tools At MYZEE|Sell Surgical Tools At EYIP\nCheap Tools At EYIP\n\nSurgical STITCHES \nSurgical ANESTHETIC \nSurgical ANTIBIOTICS \nSurgical ANTISEPTIC \nSurgical CLAMP \nSurgical DEFIBRILLATOR \nSurgical LAB KIT \nSurgical PINS \nSurgical SCALPEL \nSurgical SPLINT \nSurgical SPONGE \nSurgical TRANSFUSION \nSurgical ULTRASOUND \n}}"
+        },
+        {
+            "name": "ijeys",
+            "token": "",
+            "proxy": null,
+            "channels": [
+                {
+                    "id": "1106191627204169828",
+                    "name": "ihemo utama RSP",
+                    "message": "",
+                    "delay": 365
+                },
+                {
+                    "id": "1110240906021449821",
+                    "name": "ihemo kedua rsp",
+                    "message": "",
+                    "delay": 365
+                },
+                {
+                    "id": "1214932993160781894",
+                    "name": "growtopian palace rsp",
+                    "message": "",
+                    "delay": 364
+                },
+                {
+                    "id": "806494474200547338",
+                    "name": "Lock E i hemo",
+                    "message": "{{\n\nSell all this at Go WUMUM\n\nLock Mover 21 \nGuild Chest  2 \n\nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nSafe Vault 7\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \n\nGo WUMUM|Sell all this at Go WUMUM\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \n\nSell Birth Certificate 16 \nLock-Bot Remote 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nChi Harmonizer 11\nSafe Vault 7\n\n\nGo WUMUM|Sell all this at Go WUMUM\n\nGuild Chest  2 \nExtract-O-Snap 16 \n\nSell Birth Certificate 16 \nLock-Bot Remote 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nChi Harmonizer 11\nSafe Vault 7\nLock Mover 21 \n\nGo WUMUM|Sell all this at Go WUMUM\n\nLock Mover 21 \nGuild Chest  2 \n\nExtract-O-Snap 16  \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nSafe Vault 7 \n\nGo WUMUM|Sell all this at Go WUMUM\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \n\nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nSafe Vault 7\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \n\nGo WUMUM|Sell all this at Go DEJOX\n\nLock Mover 21 \nGuild Chest  2 \n\nExtract-O-Snap 16 \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nSafe Vault 7\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \n\nGo DEJOX|Sell all this at Go DEJOX\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \n\nSell Birth Certificate 16 \nLock-Bot Remote 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nChi Harmonizer 11\nSafe Vault 7\n\n\nGo DEJOX|Sell all this at Go DEJOX\n\nGuild Chest  2 \nExtract-O-Snap 16 \n\nSell Birth Certificate 16 \nLock-Bot Remote 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nChi Harmonizer 11\nSafe Vault 7\nLock Mover 21 \n\nGo DEJOX|Sell all this at Go DEJOX\n\nLock Mover 21 \nGuild Chest  2 \n\nExtract-O-Snap 16  \nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \nSafe Vault 7 \n\nGo DEJOX|Sell all this at Go DEJOX\n\nLock Mover 21 \nGuild Chest  2 \nExtract-O-Snap 16 \n\nSell Birth Certificate 16 \nLock-Bot Remote 11\nChi Harmonizer 11\nSafe Vault 7\nGuild Name Changer 66 \nPet  Trainer Whistle 6 \n\nGo DEJOX\n\n}}",
+                    "delay": 123
+                },
+                {
+                    "id": "806523338797219860",
+                    "name": "jammer ihemo",
+                    "message": "{Sell CHANGE OF ADDRESS 60\nat Dejox|Sell CHANGE OF ADDRESS 60\nat Wumum|Cheap CHANGE OF ADDRESS 60\nat Dejox|Cheap CHANGE OF ADDRESS 60\nat Wumum|Sell CHANGE OF ADDRESS 60\ngo Dejox|Sell CHANGE OF ADDRESS 60\ngo Wumum|Cheap CHANGE OF ADDRESS 60\ngo Dejox|Cheap CHANGE OF ADDRESS 60\ngo Wumum}",
+                    "delay": 123
+                }
+            ],
+            "message": "{{Cheap RSP seed at DEJOX\nCheap RSP block at DEJOX\nCheap RSP seed & block at DEJOX|Sell RSP seed at WUMUM\nSell RSP block at WUMUM\nSell RSP seed & block at WUMUM|Sell RSP seed at DEJOX\nSell RSP block at DEJOX\nSell RSP seed & block at DEJOX|Cheap RSP seed at WUMUM\nCheap RSP block at WUMUM\nCheap RSP seed & block at WUMUM|Sell RSP seed at DEJOX\nCheap RSP block at DEJOX\nCheap RSP seed & block at DEJOX|Cheap RSP seed at WUMUM\nSell RSP block at WUMUM\nSell RSP seed & block at WUMUM|Cheap RSP seed at DEJOX\nSell RSP block at DEJOX\nSell RSP seed & block at DEJOX|Sell RSP seed at WUMUM\nCheap RSP block at WUMUM\nCheap RSP seed & block at WUMUM|Cheap RSP seed at DEJOX\nCheap RSP block at DEJOX\nSell RSP seed & block at DEJOX|Sell RSP seed at WUMUM\nSell RSP block at WUMUM\nCheap RSP seed & block at WUMUM|Sell RSP seed at DEJOX\nSell RSP block at DEJOX\nCheap RSP seed & block at DEJOX|Cheap RSP seed at WUMUM\nCheap RSP block at WUMUM\nSell RSP seed & block at WUMUM\n}}"
+        },
+        {
+            "name": "MIXUE",
+            "channels": [
+                {
+                    "id": "1140457386079948880",
+                    "name": "",
+                    "message": "",
+                    "delay": null
+                }
+            ],
+            "proxy": null,
+            "message": "⚡️ FLASH SALE: 4GB RDP/VPS ⚡️\nGrab a reliable, high-speed RDP for a fraction of the normal price!\n- Specs: 4GB RAM\n- Price: $0.4 USDT (8k.idr)\n- Protection: 1-Week Warranty included(1x Replace)\nSecure your server today. Fast crypto payments accepted!\n🛒 Order here: @RDP_MURAH_BOT (telegram)|@ RDP_MURAH (telegram)",
+            "token": ""
+        }
+    ]
+}

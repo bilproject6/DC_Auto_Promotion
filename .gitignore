@@ -1,0 +1,10 @@
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+env/
+venv/
+.venv/
+
+# Local sensitive configuration & backups
+config.json
+backups/
